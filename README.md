@@ -4,7 +4,7 @@ Control System Modeling and Applications for Control Engineering Students
 - Lecture - 2: Pendulum
 - Lecture - 3: Inverted Pendulum
 - Lecture - 4: Cart Pole
-- TODO
+- Lecture - 5: Double Pendulum
 
 ## Sources
 1. https://ctms.engin.umich.edu/CTMS/index.php?aux=Home

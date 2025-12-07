@@ -20,7 +20,6 @@ https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=Control
 - Changes parameters of system then observe what happens. (P Controller, PI Controller, PID Controller)
 - Apply saturation to Force input. Then observe controller performance
 - Determine actuator and implement model of actuator.
-- 
 
 ## TODO
 - State Space model will be add

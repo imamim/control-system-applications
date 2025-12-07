@@ -8,6 +8,9 @@ Control System Modeling and Applications for Control Engineering Students
 - Lecture - 6: 3-DOF Rocket Model (Landing Problem)
 - Lecture - 7: 6-DOF Quadrotor Model (May be)
 
+Extras:
+- Calling C codes in the Simulink model. (Mex Function and sfun)
+
 # Project
 - Modeling and Control Fixed Wing Aircraft with Aerodynamics Model
 - Barrel Roll Maneuvering Simulation for Fixed Wing Aircraft

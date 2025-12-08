@@ -15,8 +15,11 @@ https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=Control
 - Design pid controller using transfer functions.
 - Apply PID controller to Transfer Function Model using PID block of Matlab. Share results using Issues tab.
 - Apply PID controller to Physical Model. Draw new subsystem and do not use built in PID blocks. Only gain and sum block can be use. Share results using Issues tab. Observe value in the Integrator term of PID blocks. What does it means integrator values in steady state ?
+- Apply Feed Forward Input to system.
 - Result of two system may be same or not. If not same think about it why this happens. (Your PID integration may differ from built-in function.)
 - Changes parameters of system then observe what happens. (P Controller, PI Controller, PID Controller)
+- Apply saturation to Force input. Then observe controller performance
+- Determine actuator and implement model of actuator.
 
 ## TODO
 - State Space model will be add

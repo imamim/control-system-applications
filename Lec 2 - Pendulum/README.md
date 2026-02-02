@@ -19,20 +19,20 @@ In this Lecture, we will focus on modeling and controlling simple pendulum syste
 A project report must be prepared for all assignments. The project report should be short and concise. Cause-and-effect relationships, equations, and conclusions should be presented. It can be in the form of a LaTeX, Word document, or presentation.
 
 ## Assignment
-1. Watch first video like a turist!
+1. Watch first video like a tourist!
 2. Watch second video with note taking especially equations of system, assumptions and difference between modeling technique.
 3. Watch third video for learn different concept of modeling technique (In the Non Linear System Analyze Hamiltoinan Mechanics mentioned.)
 4. Read article about modeling and control of Simple Pendulum with note taking.
 5. Do meeting for determining and extract of Non Linear equation of system for modeling.
 6. Construct Non Linear Model of Simple Pendulum in Simulink
-- Physical Equation without linearization
-- The model should be able to be started from different initial conditions. (For example initial angular position of system can be 30°)
+   - Physical Equation without linearization
+   - The model should be able to be started from different initial conditions. (For example initial angular position of system can be 30°)
 7. Test the system response, there is no actuator, there is only force/torque coming from gravity.
 8. Construct Actuator Model in Simulink (Settling time, saturation, rate limit), detail will be given subheading.
 9. Design PID controller for control angular position of mass. Which output of controller must be Torque for input of actuator. (Think about feedforward term for system)
-- One technique may be sketch root locus for finding coefficient for PID controller.
-- Then using sysid function find transfer function of closed loop system response. 
-- Which assumptions done for PID controller design.
+   - One technique may be sketch root locus for finding coefficient for PID controller.
+   - Then using sysid function find transfer function of closed loop system response. 
+   - Which assumptions done for PID controller design.
 10. Design cascaded PI control structure for angular position control off mass. (Angular Position -> Angular Rate -> Angular Acceleration -> Torque)
 11. Prepare Project Report.
 
